@@ -1,0 +1,4 @@
+GT4500,3,0,3,0 # loves loves mindkettovel
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,ALL
